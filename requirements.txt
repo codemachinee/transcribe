@@ -1,0 +1,17 @@
+certifi==2023.5.7
+cffi==1.15.1
+charset-normalizer==3.2.0
+ffmpeg==1.4
+ffprobe==0.5
+idna==3.4
+pocketsphinx==5.0.1
+pycparser==2.21
+pydub==0.25.1
+requests==2.31.0
+sounddevice==0.4.6
+SpeechRecognition==3.10.0
+srt==3.5.3
+tqdm==4.65.0
+urllib3==2.0.3
+vosk==0.3.44
+websockets==11.0.3
